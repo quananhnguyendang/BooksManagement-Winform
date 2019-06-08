@@ -1,0 +1,22 @@
+D:\SQLITE\SACH\DemoQuanLyLop\BUS\bin\Debug\BUS.dll
+D:\SQLITE\SACH\DemoQuanLyLop\BUS\bin\Debug\BUS.pdb
+D:\SQLITE\SACH\DemoQuanLyLop\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\SQLITE\SACH\DemoQuanLyLop\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\SQLITE\SACH\DemoQuanLyLop\BUS\obj\Debug\BUS.dll
+D:\SQLITE\SACH\DemoQuanLyLop\BUS\obj\Debug\BUS.pdb
+D:\SQLITE\SACH\DemoQuanLyLop\BUS\bin\Debug\DAO.dll
+D:\SQLITE\SACH\DemoQuanLyLop\BUS\bin\Debug\DTO.dll
+D:\SQLITE\SACH\DemoQuanLyLop\BUS\bin\Debug\DAO.pdb
+D:\SQLITE\SACH\DemoQuanLyLop\BUS\bin\Debug\DTO.pdb
+D:\SQLITE\SACH\DemoQuanLyLop\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\KTPM DE\SACH\DemoQuanLyLop\BUS\bin\Debug\BUS.dll
+D:\KTPM DE\SACH\DemoQuanLyLop\BUS\bin\Debug\BUS.pdb
+D:\KTPM DE\SACH\DemoQuanLyLop\BUS\bin\Debug\DAO.dll
+D:\KTPM DE\SACH\DemoQuanLyLop\BUS\bin\Debug\DTO.dll
+D:\KTPM DE\SACH\DemoQuanLyLop\BUS\bin\Debug\DAO.pdb
+D:\KTPM DE\SACH\DemoQuanLyLop\BUS\bin\Debug\DTO.pdb
+D:\KTPM DE\SACH\DemoQuanLyLop\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\KTPM DE\SACH\DemoQuanLyLop\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\KTPM DE\SACH\DemoQuanLyLop\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\KTPM DE\SACH\DemoQuanLyLop\BUS\obj\Debug\BUS.dll
+D:\KTPM DE\SACH\DemoQuanLyLop\BUS\obj\Debug\BUS.pdb

@@ -1,0 +1,9 @@
+D:\SQLITE\SACH\DemoQuanLyLop\DAO\bin\Debug\DAO.dll
+D:\SQLITE\SACH\DemoQuanLyLop\DAO\bin\Debug\DAO.pdb
+D:\SQLITE\SACH\DemoQuanLyLop\DAO\bin\Debug\DTO.dll
+D:\SQLITE\SACH\DemoQuanLyLop\DAO\bin\Debug\DTO.pdb
+D:\SQLITE\SACH\DemoQuanLyLop\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+D:\SQLITE\SACH\DemoQuanLyLop\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\SQLITE\SACH\DemoQuanLyLop\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\SQLITE\SACH\DemoQuanLyLop\DAO\obj\Debug\DAO.dll
+D:\SQLITE\SACH\DemoQuanLyLop\DAO\obj\Debug\DAO.pdb

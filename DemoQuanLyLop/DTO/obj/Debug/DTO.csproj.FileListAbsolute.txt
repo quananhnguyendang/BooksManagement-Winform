@@ -1,0 +1,6 @@
+D:\SQLITE\SACH\DemoQuanLyLop\DTO\bin\Debug\DTO.dll
+D:\SQLITE\SACH\DemoQuanLyLop\DTO\bin\Debug\DTO.pdb
+D:\SQLITE\SACH\DemoQuanLyLop\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\SQLITE\SACH\DemoQuanLyLop\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\SQLITE\SACH\DemoQuanLyLop\DTO\obj\Debug\DTO.dll
+D:\SQLITE\SACH\DemoQuanLyLop\DTO\obj\Debug\DTO.pdb
