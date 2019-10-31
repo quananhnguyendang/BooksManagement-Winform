@@ -1,12 +1,16 @@
 create database QLNHASACH
 go 
 use QLNHASACH
+
+
 go
 create table THELOAI
 (
 	MATHELOAI int identity primary key,
 	TenTheLoai nvarchar(50)
 )
+
+
 go
 create table SACH
 (
@@ -18,6 +22,8 @@ create table SACH
 	MaTheLoai int references THELOAI (MaTheLoai)
 )
 drop table SACH
+
+
 go
 --them the loai
 create proc sp_ThemTheLoai
@@ -100,3 +106,4 @@ begin
 	select *from THELOAI
 end
 
+select * from Sach
