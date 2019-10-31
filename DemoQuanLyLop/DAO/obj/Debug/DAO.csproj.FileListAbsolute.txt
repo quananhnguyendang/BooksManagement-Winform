@@ -7,3 +7,12 @@ D:\SQLITE\SACH\DemoQuanLyLop\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
 D:\SQLITE\SACH\DemoQuanLyLop\DAO\obj\Debug\DAO.csproj.CopyComplete
 D:\SQLITE\SACH\DemoQuanLyLop\DAO\obj\Debug\DAO.dll
 D:\SQLITE\SACH\DemoQuanLyLop\DAO\obj\Debug\DAO.pdb
+D:\STUDY\KTPM\KTPM DE\SACH\DemoQuanLyLop\DAO\bin\Debug\DAO.dll
+D:\STUDY\KTPM\KTPM DE\SACH\DemoQuanLyLop\DAO\bin\Debug\DAO.pdb
+D:\STUDY\KTPM\KTPM DE\SACH\DemoQuanLyLop\DAO\bin\Debug\DTO.dll
+D:\STUDY\KTPM\KTPM DE\SACH\DemoQuanLyLop\DAO\bin\Debug\DTO.pdb
+D:\STUDY\KTPM\KTPM DE\SACH\DemoQuanLyLop\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+D:\STUDY\KTPM\KTPM DE\SACH\DemoQuanLyLop\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\STUDY\KTPM\KTPM DE\SACH\DemoQuanLyLop\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\STUDY\KTPM\KTPM DE\SACH\DemoQuanLyLop\DAO\obj\Debug\DAO.dll
+D:\STUDY\KTPM\KTPM DE\SACH\DemoQuanLyLop\DAO\obj\Debug\DAO.pdb

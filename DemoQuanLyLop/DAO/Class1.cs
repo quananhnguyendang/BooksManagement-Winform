@@ -12,7 +12,7 @@ namespace DAO
     {
         public static SqlConnection HamKetNoi()
         {
-            SqlConnection cnn = new SqlConnection(@"Data Source=MAYTINH-C13JGSL\SQLEXPRESS;Initial Catalog=QLNHASACH;Integrated Security=True");
+            SqlConnection cnn = new SqlConnection(@"Data Source=LAPTOP-I7ORRBVV;Initial Catalog=QLNHASACH;Integrated Security=True");
             return cnn;
         }
     }

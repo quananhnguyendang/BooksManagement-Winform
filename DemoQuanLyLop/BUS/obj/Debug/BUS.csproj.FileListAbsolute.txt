@@ -20,3 +20,14 @@ D:\KTPM DE\SACH\DemoQuanLyLop\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
 D:\KTPM DE\SACH\DemoQuanLyLop\BUS\obj\Debug\BUS.csproj.CopyComplete
 D:\KTPM DE\SACH\DemoQuanLyLop\BUS\obj\Debug\BUS.dll
 D:\KTPM DE\SACH\DemoQuanLyLop\BUS\obj\Debug\BUS.pdb
+D:\STUDY\KTPM\KTPM DE\SACH\DemoQuanLyLop\BUS\bin\Debug\BUS.dll
+D:\STUDY\KTPM\KTPM DE\SACH\DemoQuanLyLop\BUS\bin\Debug\BUS.pdb
+D:\STUDY\KTPM\KTPM DE\SACH\DemoQuanLyLop\BUS\bin\Debug\DAO.dll
+D:\STUDY\KTPM\KTPM DE\SACH\DemoQuanLyLop\BUS\bin\Debug\DTO.dll
+D:\STUDY\KTPM\KTPM DE\SACH\DemoQuanLyLop\BUS\bin\Debug\DAO.pdb
+D:\STUDY\KTPM\KTPM DE\SACH\DemoQuanLyLop\BUS\bin\Debug\DTO.pdb
+D:\STUDY\KTPM\KTPM DE\SACH\DemoQuanLyLop\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\STUDY\KTPM\KTPM DE\SACH\DemoQuanLyLop\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\STUDY\KTPM\KTPM DE\SACH\DemoQuanLyLop\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\STUDY\KTPM\KTPM DE\SACH\DemoQuanLyLop\BUS\obj\Debug\BUS.dll
+D:\STUDY\KTPM\KTPM DE\SACH\DemoQuanLyLop\BUS\obj\Debug\BUS.pdb
